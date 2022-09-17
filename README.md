@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, Im Brent
 
 I'm Brent from the netherlands, and i like programming!
 
@@ -12,4 +12,5 @@ I'm Brent from the netherlands, and i like programming!
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brentgotte)](https://github.com/anuraghazra/github-readme-stats)
+
 
