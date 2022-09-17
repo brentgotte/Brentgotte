@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**brentgotte/Brentgotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brent from the netherlands, and i like programming!
 
-Here are some ideas to get you started:
+💻 I am in my second year as a  software engineer at the Bit-academy
+📝 I have a strong interest in Python, Javascript,  AI and Linux
+🔭 Working on school related stuff & side projects
+🌱 i love learning about Computer's and everything connected to it
+🌟 Main languages: Python PHP, HTML5, SQL and many more
+🚩 Interested in learning AI and react
+✍️ Hobby's are playing football, listening to music, gaming, anime and programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brentgotte)](https://github.com/anuraghazra/github-readme-stats)
+
