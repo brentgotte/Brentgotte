@@ -3,6 +3,7 @@
 I'm Brent from the netherlands, and i like programming!
 
 💻 I am in my second year as a  software engineer at the Bit-academy
+
 📝 I have a strong interest in Python, Javascript,  AI and Linux
 🔭 Working on school related stuff & side projects
 🌱 i love learning about Computer's and everything connected to it
