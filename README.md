@@ -1,5 +1,6 @@
 ### Hi 👋, Im Brent
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+
 I'm Brent from the netherlands, and i like programming!
 
 💻 I am in my second year as a  software engineer at the Bit-academy
