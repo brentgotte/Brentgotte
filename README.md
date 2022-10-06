@@ -1,4 +1,4 @@
-### Hi 👋, Im Brent
+### Hi 👋, Im Bert
 
 I'm Brent from the netherlands, and i like programming!
 
