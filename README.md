@@ -1,4 +1,4 @@
-### Hi 👋, Im Brent aka BerdoBeredoBethusBastardoGames
+### Hi 👋, Im Brent
 
 I'm Brent from the netherlands, and i like programming!
 
