@@ -3,6 +3,7 @@
 <p align="center">
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&duration=3000&pause=999&color=F37182CD&center=true&width=435&lines=Brent+G%C3%B6tte+%7C+Web+developer;Linux+enthousiast"> </p>
+<img src="https://komarev.com/ghpvc/?username=brentgotte&label=Visitors&color=1ad90d&style=flat" alt="brentgotte" />
  ### Hi 👋, Im Brent
  
  
