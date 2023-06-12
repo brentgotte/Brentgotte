@@ -11,7 +11,7 @@ I'm Brent from the netherlands, and i like programming!
 
 💻 I am in my second year as a  software engineer at the Bit-academy
 
-🧑‍💼 Currently intershipping at STACHANOV
+🧑‍💼 Currently Working at STACHANOV
 
 📝 I have a strong interest in React, Javascript,  AI and Linux
 
