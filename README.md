@@ -9,7 +9,7 @@
  
 I'm Brent from the netherlands, and i like programming!
 
-💻 I am in my second year as a  software engineer at the Bit-academy
+💻 I am in my third year as a  software engineer at the Bit-academy
 
 🧑‍💼 9 months of  Work-experience
 
