@@ -9,9 +9,9 @@
  
 I'm Brent from the netherlands, and i like programming!
 
-💻 I am in my third year as a  software engineer at the Bit-academy
+💻 I am a graduated software engineer from the Bit-academy, currently studing Software engineering at Amsterdam University of Applied Sciences.
 
-🧑‍💼 9 months of  Work-experience
+🧑‍💼 15 months of  Work-experience
 
 📝 I have a strong interest in React, Javascript,  AI and Linux
 
