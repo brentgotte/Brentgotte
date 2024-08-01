@@ -7,7 +7,7 @@
  ### Hi 👋, Im Brent
  
  
-I'm Brent from the netherlands, and i like programming!
+I'm Brent from the Netherlands, and I like programming!
 
 💻 I am a graduated software engineer from the Bit-academy, currently studing Software engineering at Amsterdam University of Applied Sciences.
 
@@ -17,7 +17,7 @@ I'm Brent from the netherlands, and i like programming!
 
 🔭 Working on school related stuff & side projects
 
-🌱 i love learning about Computer's and everything connected to it
+🌱 I love learning about Computer's and everything connected to it
 
 🌟 Main languages: Python PHP, HTML5, SQL and many more
 
