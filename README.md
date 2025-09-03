@@ -13,7 +13,7 @@ I'm Brent from the Netherlands, and I like programming!
 
 🧑‍💼 15 months of  Work-experience
 
-📝 I have a strong interest in React, Javascript,  AI and Linux
+📝 I have a strong interest in React, Typescript,   AI and Linux
 
 🔭 Working on school related stuff & side projects
 
